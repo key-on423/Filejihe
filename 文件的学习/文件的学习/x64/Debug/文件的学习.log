@@ -1,0 +1,3 @@
+﻿  here.c
+C:\Users\35316\Desktop\.vs\文件的学习\文件的学习\here.c(5,19): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\35316\Desktop\.vs\文件的学习\文件的学习\here.c(15,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
