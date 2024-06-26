@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\35316\\Desktop\\.vs\\File003\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A5A5FF-C6AD-4C1A-9C29-D2A94A4D5EE2}|File003\\File003.vcxproj|C:\\Users\\35316\\Desktop\\.vs\\File003\\File003\\start.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8A5A5FF-C6AD-4C1A-9C29-D2A94A4D5EE2}|File003\\File003.vcxproj|solutionrelative:File003\\start.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "start.c",
+              "DocumentMoniker": "C:\\Users\\35316\\Desktop\\.vs\\File003\\File003\\start.c",
+              "RelativeDocumentMoniker": "File003\\start.c",
+              "ToolTip": "C:\\Users\\35316\\Desktop\\.vs\\File003\\File003\\start.c",
+              "RelativeToolTip": "File003\\start.c",
+              "ViewState": "AQIAACYBAAAAAAAAAAAAAEoBAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-25T11:20:18.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
